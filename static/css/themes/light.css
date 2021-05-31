@@ -1,0 +1,20 @@
+:root {
+	--bg-color: rgb(190, 195, 200);
+
+	--topbar-color: white;
+	--topbar-title-color: black;
+	--topbar-subtitle-color: rgb(63, 63, 63);
+
+	--banner-url: url('/static/img/banners/banner_original.png');
+
+	--card-border-color: rgb(32, 32, 32);
+	--card-primary-shadow-color: rgba(255, 0, 0, 0);
+	--card-shadow-color: rgba(24, 24, 24, 0);
+
+	--connexion-bar-text-primary-color: white;
+	--connexion-bar-color: black;
+	--connexion-bar-user-color: rgb(153, 109, 230);
+	--connexion-bar-disconnect-color: rgb(223, 62, 62);
+
+	--link-color: rgb(200, 168, 255);
+}
